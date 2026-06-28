@@ -38,7 +38,7 @@ The objective of this dashboard is to help businesses understand:
 
 # 📊 Dashboard Preview
 
-![Dashboard](Dashboard%20.png)
+![Dashboard](Dashboard.png)
 
 ---
 
